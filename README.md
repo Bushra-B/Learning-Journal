@@ -5,6 +5,7 @@ I'm a constant learner so I keep this learning journal where I explain why conti
 
 ## Growth Mindset:
 To me, *growth mindset* is about the internal beliefs that orient my behaviour toward learning and trying to expand my potential and be more.
+[Link](url) and ![Image](src)
 
 # Header 1
 ## Header 2
