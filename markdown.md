@@ -4,7 +4,7 @@
 With Markdown we can style the text displayed on the web without using HTML or CSS syntax, but with non-alphabetic characters only.**
 
 
-Markdown features:
+## Markdown features:
 1.  text formatting
    i.e.: bold text and italic text
 2. document structuring
@@ -17,22 +17,24 @@ Markdown features:
 6. some extra features supported by Github
   i.e.: comments and task lists
 
-Basic Markdown syntax:
-**for bold text**
-*for italic text*
-# heading (large size)
-### heading (smaller size)
-> for quotes
-for ordered lists
+## Basic Markdown syntax:
+for bold text: ** **
+for italic text: * *
+heading (large size): #
+heading (smaller size): ###
+for quotes: >
+for ordered lists:
 1.
 1.
 1.
     1. for sublist
-for unordered lists
+    
+for unordered lists:
 -
 -
 -
     - for sublist
+    
 [link name](link URL)
 ![image name](image adress URL)
 `inline code block`
