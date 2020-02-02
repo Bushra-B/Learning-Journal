@@ -13,3 +13,5 @@ To me, *growth mindset* is about the internal beliefs that orient my behaviour t
    > William James 
 - “The master has failed more times than the beginner has even tried.”
    > Stephen McCranie 
+-“Don't be pushed by your problems. Be led by your dreams.”
+  > Ralph Waldo Emerson
