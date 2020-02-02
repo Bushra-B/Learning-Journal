@@ -25,14 +25,14 @@ With Markdown we can style the text displayed on the web without using HTML or C
 - heading (smaller size): ###
 - for quotes: >
 - for ordered lists:
-    1.
-    1.
-    1.
+    1. text
+    1. text
+    1. text
     
 - for unordered lists:
-    -
-    -
-    -
+    - text
+    - text
+    - text
     
 - \[link name](link URL)
 - \![image name]\(image address URL)
