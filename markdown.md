@@ -25,10 +25,9 @@ With Markdown we can style the text displayed on the web without using HTML or C
 - heading (smaller size): ###
 - for quotes: >
 - for ordered lists:
-1.
-1.
-1.
-    1. for sublist
+    1.
+    1.
+    1.
     
 - for unordered lists:
 -
