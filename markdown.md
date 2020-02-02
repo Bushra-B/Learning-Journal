@@ -35,9 +35,9 @@ With Markdown we can style the text displayed on the web without using HTML or C
     -
     
 - \[link name](link URL)
-- \![image name](image adress URL)
+- \![image name]\(image adress URL)
 - `inline code block`
 - for task lists:
- - [x]
- - [x]
- - [ ]
+   - [x]
+   - [x]
+   - [ ]
