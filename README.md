@@ -1,5 +1,5 @@
-# Welcome to my learning journal.
-=================================
+'# Welcome to my learning journal.'
+
 **I am Bushra.
 I'm a constant learner so I keep this learning journal where I explain why continouse learning and *growth mindset* is important and to remind myself to stay in that mindset.**
 
