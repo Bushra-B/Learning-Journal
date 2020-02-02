@@ -18,27 +18,28 @@ With Markdown we can style the text displayed on the web without using HTML or C
   i.e.: comments and task lists
 
 ## Basic Markdown syntax:
-for bold text: ** **
-for italic text: * *
-heading (large size): #
-heading (smaller size): ###
-for quotes: >
-for ordered lists:
+
+- for bold text: ** **
+- for italic text: * *
+- heading (large size): #
+- heading (smaller size): ###
+- for quotes: >
+- for ordered lists:
 1.
 1.
 1.
     1. for sublist
     
-for unordered lists:
+- for unordered lists:
 -
 -
 -
     - for sublist
     
-[link name](link URL)
-![image name](image adress URL)
-`inline code block`
-for task lists
-[x]
-[x]
-[ ]
+- [link name](link URL)
+- ![image name](image adress URL)
+- `inline code block`
+- for task lists
+- [x]
+- [x]
+- [ ]
