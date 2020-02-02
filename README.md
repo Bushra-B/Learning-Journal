@@ -7,27 +7,9 @@ I'm a constant learner so I keep this learning journal where I explain why conti
 To me, *growth mindset* is about the internal beliefs that orient my behaviour toward learning and trying to expand my potential and be more.
 [Link](url) and ![Image](src)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bushra-B/Learning-Journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Quotes to keep me in the growth mindset:
+- “To reach your greatest potential you'll have to fight your greatest fears.”
+- “It is our attitude at the beginning of a difficult task which, more than anything else, will affect its successful outcome.”
+   > William James 
+- “The master has failed more times than the beginner has even tried.”
+   > Stephen McCranie 
