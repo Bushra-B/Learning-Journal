@@ -29,5 +29,8 @@ But note that some commands don't display any information.**
 - _echo_ command is used to know which shell you're using.
 - *shortcut*: commands are stored in history, so you can use the up and down arrow keys to get the commands you previously typed.
 
-
+## Important commands:
+* `pwd` which stands for Print Working Directory: use this to know where you are currently (what your current or present working directory is)
+* `ls` which is short for list: use this to list the contents of a directory
+* `cd` which stands for Change Directories: use this to move to another directory
 
