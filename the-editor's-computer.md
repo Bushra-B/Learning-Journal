@@ -1,4 +1,4 @@
-#Text editors
+# Text editors
 --------------
 **Text editors are softwares used to write and edit text either for documents or for coding.
 Text editors can be either downloaded and installed on your device, or accessed online through web browsers.
@@ -12,5 +12,5 @@ And you can use the text editor software that comes with your computer, i.e. Not
 * diffrent themes
 * ability to add extensions
 
-**So the choice of which text editor to use is important depending on the features you're looking for.
+**So the choice of which text editor to use is important depending on the features you're looking for.**
 
