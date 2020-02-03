@@ -31,16 +31,16 @@ But note that some commands don't display any information.**
 
 ## Important commands:
 * `pwd` which stands for Print Working Directory: use this to know where you are currently (what your current or present working directory is)
-    >it's important to know where you currently are when you're making commands because some commands depend on the location when excuted.
+    -it's important to know where you currently are when you're making commands because some commands depend on the location when excuted.
     
-    > `pwd` command doesn't need argument.
+    - `pwd` command doesn't need argument.
     
 * `ls` which is short for list: use this to list the contents of a directory
-    > this is how you know what is there in the in the location you are in.
+    - this is how you know what is there in the in the location you are in.
     
-    > `ls` command can run with arguments and without arguments.
+    - `ls` command can run with arguments and without arguments.
     
-    > arguments (options) can be used with `ls` command as:  `ls[options][location]`
+    - arguments (options) can be used with `ls` command as:  `ls[options][location]`
     
 * `cd` which stands for Change Directories: use this to move to another directory
 
