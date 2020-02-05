@@ -65,5 +65,23 @@ decrement| -- |subtracts one from the current value
 modulus| % |divids two values and returns the reminder
 -------|---|-----------------------------------------
 
+
 ## The String Operator:
 the string operator is (+) and it's used to add two strings and join them
+
+------
+# Functions
+---------------
+**Functions are used to perform a specific task withuot repeating yourself (the DRY principle) by grouping a series of statements together**
+- some functions need *parameters* which are values used to achieve the task
+- the answer or response provided by the function is called a *return value*
+- a function must be given a *function name*, when you want the function to perform the task you *call* it using the function name
+
+## Declaring a Function:
+functions are declared as follows:
+**function-keyword function-name(parameters) {**
+    **statement;**
+   **}**
+## Calling a Function:
+functions are called as follows:
+**function-name(parameters);**
