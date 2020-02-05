@@ -5,13 +5,18 @@ I like to keep learning new stuff and challenging myself so I keep this learning
 Hope you enjoy it!**
 
 ## Table of contents:
-Content | Link
-------- | -----
-Intro page | [Intro page](https://bushra-b.github.io/Learning-Journal/)
-Learning Markdown | [Learning Markdown](https://bushra-b.github.io/Learning-Journal/markdown)
-Intro to Git | [Intro to Git](https://bushra-b.github.io/Learning-Journal/git-intro)
-The editor's computer | [The editor's computer](https://bushra-b.github.io/Learning-Journal/the-editor's-computer)
-Tips for building a website | [Tips for building a website](https://bushra-b.github.io/Learning-Journal/Duckett-ch18-summary)
+|Content | Link|
+---------|------
+|Intro page | [Intro page](https://bushra-b.github.io/Learning-Journal/)|
+------------|-------------------------------------------------------------
+|Learning Markdown | [Learning Markdown](https://bushra-b.github.io/Learning-Journal/markdown)|
+-------------------|---------------------------------------------------------------------------
+|Intro to Git | [Intro to Git](https://bushra-b.github.io/Learning-Journal/git-intro)|
+--------------|-----------------------------------------------------------------------
+|The editor's computer | [The editor's computer](https://bushra-b.github.io/Learning-Journal/the-editor's-computer)|
+-----------------------|--------------------------------------------------------------------------------------------
+|Tips for building a website | [Tips for building a website](https://bushra-b.github.io/Learning-Journal/Duckett-ch18-summary)|
+-----------------------------|-------------------------------------------------------------------------------------------------
 
 ## Growth Mindset:
 To me, *growth mindset* is about the internal beliefs that orient my behaviour toward learning and trying to expand my potential and be the best version of myself.
