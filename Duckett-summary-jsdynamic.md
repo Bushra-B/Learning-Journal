@@ -19,6 +19,7 @@ While an individual instruction/step is called a *statement***
 2. Comments
  **Comments are used to explain what your code does and to make it easier to understand**
  - for a single-line comment: use `//comment`
+ 
  - for a multi-line comment:  use `/*comment*/`
  
 -----
@@ -33,7 +34,8 @@ While an individual instruction/step is called a *statement***
 **JS has three data types, which are:**
 - Numbers: for numeric data
 - Strings: for letters and charecters, anything between (" ") is a string
-- Booleans: have ine value, True or False
+
+- Booleans: have one value, True or False
 
 -----
 5. Naming Variables Rules
