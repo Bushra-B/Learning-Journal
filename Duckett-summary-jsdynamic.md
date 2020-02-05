@@ -12,24 +12,29 @@
 1. Statements
 **A series of instructions that a computer can follow one-by-one is called a *script*,
 While an individual instruction/step is called a *statement***
+
 - statements should end with a semicolon
+
 ----
 2. Comments
  **Comments are used to explain what your code does and to make it easier to understand**
  - for a single-line comment: use `//comment`
  - for a multi-line comment:  use `/*comment*/`
+ 
 -----
 3. Variables
 **Information use in a script are stored in *variables***
 - the information stored in a variable can change each time the script runs (that's why they're called variables)
 - variables must be *declared* befor they are used, which means they must be created and given a name, declaration is done as:
 `var variable-name;`, where var is the *keyword* for a variable
+
 -----
 4. Data Types
 **JS has three data types, which are:**
 - Numbers: for numeric data
 - Strings: for letters and charecters, anything between (" ") is a string
 - Booleans: have ine value, True or False
+
 -----
 5. Naming Variables Rules
 **In JS, there are six rules for naming a variable, which are:**
