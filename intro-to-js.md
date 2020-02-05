@@ -39,4 +39,30 @@ and this is done by relying on the ability to:
 2. list the tasks you need to complete the task
 3. Design the script
 4. Code each step
+--------
+# Expressions
+---------------
+**An expressions result in a single value** 
+## Types of expressions:
+1. Expressions that assign a value to a variable; using the assignment (=)
+2. expressions that tow or more values to return a single value; using *operators*
+## Arithmetic Operators:
+are operators which you can use with numbers.
 
+addition| + |adds one value to another
+---------|---| ---------------------------------
+subtraction| - |subtracts one value from another
+-----------|---|---------------------------------
+division| / |divides two values 
+--------|---|------------------------------------
+multiplication| * |multiplies two values
+--------------|---|------------------------------
+increment| ++ |adds one to the current number 
+---------|---|-----------------------------------
+decrement| -- |subtracts one from the current value
+---------|---|-------------------------------------
+modulus| % |divids two values and returns the reminder
+-------|---|-----------------------------------------
+
+## The String Operator:
+the string operator is (+) and it's used to add two strings and join them
