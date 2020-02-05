@@ -49,6 +49,7 @@ and this is done by relying on the ability to:
 ## Arithmetic Operators:
 are operators which you can use with numbers.
 
+--------|---|----------------------------------
 addition| + |adds one value to another
 ---------|---| ---------------------------------
 subtraction| - |subtracts one value from another
