@@ -1,26 +1,32 @@
 # Text editors
 --------------
-**Text editors are software used to write and edit text either for documents or for coding.
-Text editors can be either downloaded and installed on your device, or accessed online through web browsers.
-It is an essential tool for programmers and web developers and so it should be chosen thoughtfully, but the choice of the text editor is merely personal.
-And you can use the text editor software that comes with your computer, i.e. Notepad, or use third-party software.**
+**Text editors are softwares used to write and edit text either for documents or for coding.  
+Text editors can be either downloaded and installed on your device, or accessed online through web browsers.  
+It is an essential tool for programmers and web developers and so it should be chosen thoughtfully, but the choice of the text editor is merely personal.  
+You can use the text editor software that comes with your computer, i.e. Notepad, or use a third-party software.**
 
-**Text editors are very important because they come with great features such as:**
+**Code text editors are very important because they come with great features such as:**
 
-* code completion
-* syntax highlighting
-* different themes
-* Ability to add extensions
+* code completion  
+      This feature is highly important and it saves a lot of time because it provides you with choices and suggestions to complete the code statement you're typing, it also includes the closing of tags, brackets and quotation marks when you open them.
+      
+* syntax highlighting  
+     This feature makes your code easier to read by colorizing the text such that different elements, attributes, etc have different colors
+     
+* different themes  
 
-**So the choice of which text editor to use is important depending on the features you're looking for.**
+* Ability to add extensions  
+     You can add more features to your text editor to meet your growing needs using extensions.
+
+**So the choice of which text editor to use is an important and a personal choice depending on the features you're looking for.**
 
 # The command line
 --------------------
-**A command line is an interface to the system, in which you can add text commands and execute them.
-In the command line, commands are typed at prompts and are the first thing to type after the prompt.
-After the command, you can type a command-line argument which _must_ be separated from the command by spaces.
-The first command-line argument (aka *option*) starts with a dash and modifies the behavior of the command.
-The output from running the command will be listed under the issuing of the command. 
+**A command line is an interface to the system, in which you can add text commands and execute them.  
+In the command line, commands are typed at prompts and are the first thing to type after the prompt.  
+After the command, you can type a command-line argument which _must_ be separated from the command by spaces.  
+The first command-line argument (aka *option*) starts with a dash and modifies the behavior of the command.  
+The output from running the command will be listed under the issuing of the command.  
 But note that some commands don't display any information.**
 
 ## The shell:
