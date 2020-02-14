@@ -1,11 +1,11 @@
 # Welcome to my learning journal.
 ----------------------------------
-**Hi! I am Bushra.**\
-**I'm someone who enjoys learning new stuff and challenging myself so I keep this learning journal where I explain why continuous learning and *growth mindset* is important and to remind myself to stay in that mindset, and it's also a place for me to keep my notes of the things that I'm learning.**\
-**I'm generally interested in science and technology.**\
-**I studied *physics* in college, and currently, I'm learning _software development_.**\
-**I'll post my notes in this journal.**\
-**Hope you enjoy it!**
+**Hi! I am Bushra.  
+I'm someone who enjoys learning new stuff and challenging myself so I keep this learning journal where I explain why continuous learning and *growth mindset* is important and to remind myself to stay in that mindset, and it's also a place for me to keep my notes of the things that I'm learning.  
+I'm generally interested in science and technology.  
+I studied *physics* in college, and currently, I'm learning _software development_.  
+I'll post my notes in this journal.  
+Hope you enjoy it!**
 
 ## Table of contents:
 
