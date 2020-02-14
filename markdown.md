@@ -1,6 +1,6 @@
 # Markdown:
 -----------
-**Markdown is an easy to use markup language that is used as a tool to generate HTML formate using plain text format.
+**Markdown is an easy to use markup language (a markup language is generally a language that is used to format documents and text) that is used as a tool to generate HTML formate using plain text format.  
 With Markdown we can style the text displayed on the web without using HTML or CSS syntax, but with non-alphabetic characters only.**
 
 
@@ -49,3 +49,8 @@ With Markdown we can style the text displayed on the web without using HTML or C
     \- [x]  
     \- [x]  
     \- [ ]
+    
+    ## Useful links:
+    
+    1. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+    2. [GitHub Markdown Basic writing and formatting syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#paragraphs)
