@@ -11,15 +11,15 @@ Hope you enjoy it!**
 
 Content | Link
 ---------|------
-Intro page | [Intro page](https://bushra-b.github.io/Learning-Journal/)
+Intro page | [Home page](https://bushra-b.github.io/Learning-Journal/)
 ------------|------------------------------------------------------------
-Learning Markdown | [Learning Markdown](https://bushra-b.github.io/Learning-Journal/markdown)
+Learning Markdown | [Markdown notes](https://bushra-b.github.io/Learning-Journal/markdown)
 -------------------|---------------------------------------------------------------------------
-Intro to Git | [Intro to Git](https://bushra-b.github.io/Learning-Journal/git-intro)
+Intro to Git | [Basics of Git](https://bushra-b.github.io/Learning-Journal/git-intro)
 --------------|----------------------------------------------------------------------
-The editor's computer | [The editor's computer](https://bushra-b.github.io/Learning-Journal/the-editor's-computer)
+The editor's computer | [Text editors](https://bushra-b.github.io/Learning-Journal/the-editor's-computer)
 -----------------------|--------------------------------------------------------------------------------------------
-Tips for building a website | [Tips for building a website](https://bushra-b.github.io/Learning-Journal/Duckett-ch18-summary)
+Building a website | [Tips for building a website](https://bushra-b.github.io/Learning-Journal/Duckett-ch18-summary)
 -----------------------------|------------------------------------------------------------------------------------------------
 
 ## Growth Mindset:
