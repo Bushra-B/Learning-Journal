@@ -52,5 +52,5 @@ With Markdown we can style the text displayed on the web without using HTML or C
     
 ## Useful links:
     
-    1. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-    2. [GitHub Markdown Basic writing and formatting syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#paragraphs)
+1. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+2. [GitHub Markdown Basic writing and formatting syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#paragraphs)
