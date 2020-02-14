@@ -17,7 +17,7 @@ Learning Markdown | [Markdown notes](https://bushra-b.github.io/Learning-Journal
 -------------------|---------------------------------------------------------------------------
 Intro to Git | [Basics of Git](https://bushra-b.github.io/Learning-Journal/git-intro)
 --------------|----------------------------------------------------------------------
-The editor's computer | [Text editors](https://bushra-b.github.io/Learning-Journal/the-editor's-computer)
+The editor's computer | [Text editors and Terminals](https://bushra-b.github.io/Learning-Journal/the-editor's-computer)
 -----------------------|--------------------------------------------------------------------------------------------
 Building a website | [Tips for building a website](https://bushra-b.github.io/Learning-Journal/Duckett-ch18-summary)
 -----------------------------|------------------------------------------------------------------------------------------------
