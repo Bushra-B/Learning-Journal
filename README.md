@@ -1,7 +1,8 @@
 # Welcome to my learning journal.
 ----------------------------------
-**Hi! I am Bushra.
-I like to keep learning new stuff and challenging myself so I keep this learning journal where I explain why continouse learning and *growth mindset* is important and to remind myself to stay in that mindset.
+**Hi! I am Bushra.\
+I'm someone who enjoys learning new stuff and challenging myself so I keep this learning journal where I explain why continuous learning and *growth mindset* is important and to remind myself to stay in that mindset, and it's also a place for me to keep my notes of the things that I'm learning./
+Currently, I'm learning software development and I'll post my notes in this journal.\
 Hope you enjoy it!**
 
 ## Table of contents:
