@@ -25,7 +25,7 @@ Building a website | [Tips for building a website](https://bushra-b.github.io/Le
 ## Growth Mindset:
 To me, *growth mindset* is about the internal beliefs that orient my behaviour toward learning and trying to expand my potential and be the best version of myself.
 
-![Image of personal growth](https://www.wabisabilearning.com/hubfs/growth-mindset-colourful.jpg)
+![Image of personal growth](https://i.ytimg.com/vi/EyIF5VUOJc0/maxresdefault.jpg)
 
 ### Quotes to keep me in the growth mindset:
 
